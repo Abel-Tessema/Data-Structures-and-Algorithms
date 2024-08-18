@@ -1,0 +1,6 @@
+# ninja log v5
+808	925	7293773433072877	Binary_Tree.exe	ee260d65a9355efd
+4	808	7293773431929530	CMakeFiles/Binary_Tree.dir/main.cpp.obj	d2c066e6ce9a1bb9
+11	1178	7293772679713832	CMakeFiles/Binary_Tree.dir/BinaryTree.cpp.obj	7489563d5a0d1db
+1	438	7293809033673408	build.ninja	b9a1a446baf1312b
+5	337	7293809037243394	Binary_Tree.exe	f55615125d517c8d
